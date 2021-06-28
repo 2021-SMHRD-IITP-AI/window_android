@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("add","1234");
         Log.d("Huiso","1234");
         Log.d("Huiso2","1234");
+        //변경추가
     }
 }
