@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.v("hi","112");
         Log.d("add","1234");
         Log.d("Huiso","1234");
+        Log.d("Huiso2","1234");
     }
 }
