@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Huiso","1234");
         Log.d("Huiso2","1234");
         Log.d("Huiso3","1234");
+        Log.d("Huiso4","1234");
 
 
     }
